@@ -15,12 +15,10 @@ finally their combination into a single code capable of correcting both.
 
 This was as much an exploration as a presentation — the notebooks are 
 organized to reflect that progression, with each building directly on 
-the last. 
+the last. I elected instead to keep things in a shape where their structure was clear and
+traceable from previous expressions, instead of reducing the error correcting code to its simplest form which has been 
+well established by other literature and can be read about elsewhere. 
 
-Instead of reducing the error correcting code to its simplest form, which has been 
-well established by other literature and can be read about elsewhere,
-I elected instead to keep things in a shape where their structure was clear and
-traceable from previous expressions, even if it meant sacrificing some efficiency. 
 
 With that said, I hope you enjoy!
 
