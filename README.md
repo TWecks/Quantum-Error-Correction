@@ -8,8 +8,8 @@ arbitrary single-qubit errors.
 ## Overview
 
 The goal of this project is to demonstrate how quantum error correcting 
-codes can be constructed and simulated using Qiskit, building from 
-simple single-error codes up to the full 9-qubit Shor code. The 
+codes can be constructed and simulated using [Qiskit](https://github.com/Qiskit), building from 
+simple single-error codes up to the full 9-qubit [Shor code](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.52.R2493). The 
 investigation covers bit-flip (X) errors, phase-flip (Z) errors, and 
 finally their combination into a single code capable of correcting both.
 
